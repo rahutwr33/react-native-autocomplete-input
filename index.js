@@ -231,9 +231,9 @@ const androidStyles = {
   },
   list: {
     ...border,
-    backgroundColor: 'white',
+    backgroundColor: '#ffffff',
     borderTopWidth: 0,
-    margin: 10,
+    margin: 3,
     marginTop: 0
   }
 };
@@ -246,13 +246,13 @@ const iosStyles = {
     ...border
   },
   input: {
-    backgroundColor: 'white',
+    backgroundColor: '#ffffff',
     height: 40,
     paddingLeft: 3
   },
   list: {
     ...border,
-    backgroundColor: 'white',
+    backgroundColor: '#ffffff',
     borderTopWidth: 0,
     left: 0,
     position: 'absolute',
